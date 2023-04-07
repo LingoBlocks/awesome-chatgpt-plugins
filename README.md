@@ -24,14 +24,9 @@ ChatGPT plugins are add-ons that allow ChatGPT to connect with official and thir
 - [Code Interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter): Lets users interact with a secure Python interpreter during a chat conversation, allowing them to run code, build on previous code, and upload or download files.
 
 
-## Third-party Plugins
+## Plugins
 
-- GPT-3 with Hugging Face: Official implementation of GPT-3 from OpenAI, with easy-to-use API wrapper from Hugging Face.
-- Knowledge Graph: A plugin that allows ChatGPT models to incorporate external knowledge sources such as structured data or ontologies.
-- Multi-turn Conversation Tracking: A plugin that enables tracking of conversations across multiple sessions.
-- Contextualization: A plugin that helps ChatGPT models to maintain context in their conversations.
-- Named Entity Recognition: A plugin that identifies names of persons, organizations, locations, and other entities in text.
-- Sentiment Analysis: A plugin that analyzes emotions and sentiment in users' input.
+- coming soon... Have a suggestion? Create a PR!
 
 ## Demos
 
