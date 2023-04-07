@@ -9,6 +9,7 @@
 - [What are ChatGPT plugins?](#what-are-chatgpt-plugins)
 - [Official Plugins](#official-plugins)
 - [Plugins](#plugins)
+- [Demos](#demos)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 
