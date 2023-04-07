@@ -50,7 +50,7 @@ Thanks for considering contributing to this project! To get started:
 
 ### License
 
-This project is licensed under the MIT license.
+This project is licensed under the [MIT license](https://github.com/LingoBlocks/awesome-chatgpt-plugins/blob/main/LICENSE).
 
 ### Conclusion
 
