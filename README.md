@@ -32,6 +32,14 @@ ChatGPT plugins are add-ons that allow ChatGPT to connect with official and thir
 - Named Entity Recognition: A plugin that identifies names of persons, organizations, locations, and other entities in text.
 - Sentiment Analysis: A plugin that analyzes emotions and sentiment in users' input.
 
+## Demos
+
+- [Zapier](https://twitter.com/wadefoster/status/1638958299935801344)
+- [Swift Playground](https://twitter.com/andpoul/status/1639834359707385858)
+- [Browsing](https://twitter.com/heydave7/status/1639085946653007875)
+- [Product Launch Sentiment](https://twitter.com/gdb/status/1638986918947082241)
+- [Process Video](https://twitter.com/gdb/status/1638971232443076609)
+
 ## Documentation
 
 - [OpenAI ChatGPT Plugins](https://platform.openai.com/docs/plugins/introduction)
