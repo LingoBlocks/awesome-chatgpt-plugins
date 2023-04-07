@@ -25,8 +25,6 @@ ChatGPT plugins are add-ons that allow ChatGPT to connect with official and thir
 
 ## Third-party Plugins
 
-Here are some great ChatGPT plugins available:
-
 - GPT-3 with Hugging Face: Official implementation of GPT-3 from OpenAI, with easy-to-use API wrapper from Hugging Face.
 - Knowledge Graph: A plugin that allows ChatGPT models to incorporate external knowledge sources such as structured data or ontologies.
 - Multi-turn Conversation Tracking: A plugin that enables tracking of conversations across multiple sessions.
