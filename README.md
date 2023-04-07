@@ -1,23 +1,27 @@
 # Awesome ChatGPT Plugins
 
-A curated list of awesome ChatGPT Plugins, demos and guides.
+![OpenAI ChatGPT Plugins](https://images.unsplash.com/photo-1679083216051-aa510a1a2c0e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80)
+
+> A curated list of awesome [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins), demos and other resources.
 
 ## Contents
 
 - [What are ChatGPT plugins?](#what-are-chatgpt-plugins)
-- [Why use ChatGPT plugins?](#why-use-chatgpt-plugins)
 - [Plugins](#plugins)
 - [Contributing](#contributing)
 
 ### What are ChatGPT plugins?
 
-ChatGPT is a powerful language model that can be used to build conversational AI applications. ChatGPT plugins are a collection of pre-built functionalities and features that can be added to ChatGPT models to enhance their performance.
+ChatGPT plugins are add-ons that allow ChatGPT to connect with official and third-party APIs. These plugins enhance ChatGPT's abilities by enabling it to perform various tasks, such as retrieving real-time information (e.g., sports scores), accessing knowledge bases (e.g., company documents), and taking actions on behalf of users (e.g., booking flights).
 
-### Why use ChatGPT plugins?
+### Official Plugins
 
-Using ChatGPT plugins can save developers valuable time by allowing them to quickly add pre-built functionalities to their models, rather than building everything from scratch. Additionally, many ChatGPT plugins are open source, which means they can be easily customized and tweaked to fit specific use cases.
+- [Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin): Enables semantic search and retrieval of personal or organizational documents.
+- [Browsing](https://openai.com/blog/chatgpt-plugins#browsing): An experimental model that knows when and how to browse the internet.
+- [Code Interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter): Lets users interact with a secure Python interpreter during a chat conversation, allowing them to run code, build on previous code, and upload or download files.
 
-### Plugins
+
+### Third-party Plugins
 
 Here are some great ChatGPT plugins available:
 
