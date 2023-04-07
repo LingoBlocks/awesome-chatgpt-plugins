@@ -4,10 +4,10 @@ A curated list of awesome ChatGPT Plugins, demos and guides.
 
 ## Contents
 
-- What are ChatGPT plugins?
-- Why use ChatGPT plugins?
-- Plugins
-- Contributing
+- [What are ChatGPT plugins?](#what-are-chatgpt-plugins)
+- [Why use ChatGPT plugins?](#why-use-chatgpt-plugins)
+- [Plugins](#plugins)
+- [Contributing](#contributing)
 
 ### What are ChatGPT plugins?
 
