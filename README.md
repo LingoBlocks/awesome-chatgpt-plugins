@@ -32,7 +32,6 @@ ChatGPT plugins are add-ons that allow ChatGPT to connect with official and thir
 ## Community Plugins
 
 - [StabilityGPT](https://twitter.com/skirano/status/1644454835947806722?s=46&t=eK3o6bMtY_yuQa8WYPdsrg) - Run stable-diffusion directly in ChatGPT.
-- more added daily... have a suggestion? Open a PR.
 
 ## Demos
 
