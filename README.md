@@ -4,12 +4,19 @@
 
 > A curated list of awesome [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins), demos and other resources.
 
-- [What are ChatGPT plugins?](#what-are-chatgpt-plugins)
-- [Official Plugins](#official-plugins)
-- [Plugins](#plugins)
-- [Demos](#demos)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
+- Resources
+  - [What are ChatGPT plugins?](#what-are-chatgpt-plugins)
+  - [Documentation](#documentation)
+
+- Plugins
+  - [Official Plugins](#official-plugins)
+  - [Community Plugins](#community-plugins)
+  
+- Examples
+  - [Demo 1](#demos)
+
+- Community
+  - [Contributing](#contributing)
 
 ### What are ChatGPT plugins?
 
@@ -22,7 +29,7 @@ ChatGPT plugins are add-ons that allow ChatGPT to connect with official and thir
 - [Code Interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter) - Lets users interact with a secure Python interpreter during a chat conversation, allowing them to run code, build on previous code, and upload or download files.
 
 
-## Plugins
+## Community Plugins
 
 - [StabilityGPT](https://twitter.com/skirano/status/1644454835947806722?s=46&t=eK3o6bMtY_yuQa8WYPdsrg) - Run stable-diffusion directly in ChatGPT.
 - more added daily... have a suggestion? Open a PR.
