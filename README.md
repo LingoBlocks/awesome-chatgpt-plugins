@@ -4,8 +4,6 @@
 
 > A curated list of awesome [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins), demos and other resources.
 
-## Contents
-
 - [What are ChatGPT plugins?](#what-are-chatgpt-plugins)
 - [Official Plugins](#official-plugins)
 - [Plugins](#plugins)
