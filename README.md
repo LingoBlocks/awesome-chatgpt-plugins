@@ -1,6 +1,6 @@
-# Awesome ChatGPT Plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 ![OpenAI ChatGPT Plugins](https://images.unsplash.com/photo-1679083216051-aa510a1a2c0e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80)
+
+# Awesome ChatGPT Plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins), demos and other resources.
 
