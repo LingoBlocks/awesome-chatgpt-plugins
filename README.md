@@ -17,9 +17,9 @@ ChatGPT plugins are add-ons that allow ChatGPT to connect with official and thir
 
 ## Official Plugins
 
-- [Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin): Enables semantic search and retrieval of personal or organizational documents.
-- [Browsing](https://openai.com/blog/chatgpt-plugins#browsing): An experimental model that knows when and how to browse the internet.
-- [Code Interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter): Lets users interact with a secure Python interpreter during a chat conversation, allowing them to run code, build on previous code, and upload or download files.
+- [Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin) - Enables semantic search and retrieval of personal or organizational documents.
+- [Browsing](https://openai.com/blog/chatgpt-plugins#browsing) - An experimental model that knows when and how to browse the internet.
+- [Code Interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter) - Lets users interact with a secure Python interpreter during a chat conversation, allowing them to run code, build on previous code, and upload or download files.
 
 
 ## Plugins
